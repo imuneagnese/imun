@@ -1,0 +1,40 @@
+header{
+		margin:1%;
+}
+
+table{
+  border-collapse: collapse;
+  display: inline-block;
+}
+tr{
+  border: 1px solid black;
+  border-collapse: collapse;
+  display: inline-block;
+  margin-right:60px;
+  margin-left:60px;
+  margin-top: 25px;
+  height:200px;
+  width:200px;
+  display: inline-block;
+}
+td,th{
+	display: block;
+	text-align: center;
+}
+th{
+	padding: 30px;
+   }
+nav{
+	margin-left: 1000px;
+	padding-bottom: 15px;
+}
+nav a{
+	color: black;
+	text-decoration: none;
+	border: solid ;
+	border-width:1px 3px 3px 1px;
+	border-color:black;
+	padding: 10px;
+
+	
+}
