@@ -9,7 +9,7 @@
 <body>
 <section id="left">
 	<header>
-		<img src="C:\Users\Agnese\Desktop\MAGEBIT\img\logo_pineapple.jpg" id="logo">
+		<img src="\img\logo_pineapple.jpg" id="logo">
 			<nav>
 				<a href="#">About</a>
 				<a href="#">How it works</a>
