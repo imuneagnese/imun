@@ -23,7 +23,7 @@
 <form>
 	<label for="email">
 		<input type="email" id="email_addr" name="email" placeholder="Type your email address here..." required="me@me.com" ></label>
-		<input type="image"src="C:\Users\Agnese\Desktop\MAGEBIT\img\ic_arrow.png" id="arrow" alt="submit" value="Thanks for subcribing!" onclick="return check();"><br>
+		<input type="image"src="\img\ic_arrow.png" id="arrow" alt="submit" value="Thanks for subcribing!" onclick="return check();"><br>
 
 		
 		<script type="text/javascript">
